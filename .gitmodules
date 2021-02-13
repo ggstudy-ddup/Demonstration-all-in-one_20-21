@@ -1,0 +1,6 @@
+[submodule ".\\cascience-proj-demo\\"]
+	path = .\\cascience-proj-demo\\
+	url = https://github.com/Cynthia7979/cascience-proj-demo
+[submodule ".\\obj-detect_demo_2020-2021_cpp-process\\"]
+	path = .\\obj-detect_demo_2020-2021_cpp-process\\
+	url = https://github.com/ggstudy-ddup/obj-detect_demo_2020-2021_cpp-process
